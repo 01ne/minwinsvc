@@ -1,5 +1,5 @@
-module github.com/kardianos/minwinsvc
+module github.com/01ne/minwinsvc
 
-go 1.17
+go 1.18
 
-require golang.org/x/sys v0.0.0-20221013171732-95e765b1cc43
+require golang.org/x/sys v0.26.0

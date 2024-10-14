@@ -5,7 +5,7 @@ can import this package to enable running programs as services without modifying
 them.
 
 ```
-import _ "github.com/kardianos/minwinsvc"
+import _ "github.com/01ne/minwinsvc"
 ```
 
 If you need more control over the exit behavior, set
